@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Build directories
+/target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven / Gradle wrapper
+.mvn/wrapper/maven-wrapper.jar
+gradle/wrapper/gradle-wrapper.jar
+
+# Environment / Secrets
+application.properties
+application.yml
+*.env
+
+# Logs
+*.log
